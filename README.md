@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @howwyhoward
-- 👀 I’m interested in learning more about software engineering
-- 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on teamwork and efforts
+- 👋 Hi, I’m Howard
+- 👀 I’m interested in Full Stack devs and Machine Learning
+- I’m currently studying computer scienc
+- I’m early looking for an internship role
 - 📫 How to reach me - howardw1120@gmail.com
 
 <!---
