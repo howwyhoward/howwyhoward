@@ -16,9 +16,3 @@ Systems-oriented researcher focusing on the intersection of perception, machine 
 
 🛠️ Technical Focus
 ML & Vision: PyTorch, PyTorch Lightning, OpenCV, 3D Gaussian Splatting (3DGS)
-
-Systems & Infrastructure: Distributed Computing (Ray), Bazel (Hermetic Builds), Docker, Singularity, SLURM (Greene HPC)
-
-Data & Retrieval: Vector Databases (HNSW, FAISS), PostgreSQL, Query Optimization
-
-Languages: Python, C++, TypeScript, SQL
